@@ -7,7 +7,6 @@ import javax.persistence.Id;
 @Entity
 public class AddressBook {
 
-
     @Id
     @GeneratedValue
     private Integer id;
